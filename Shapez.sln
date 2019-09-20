@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{300E1286-E2EA-4212-AD22-1E5822392235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapez", "Shapez\Shapez.csproj", "{6CDAF3A5-7ACB-4169-B3E6-1A70782ABB97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300E1286-E2EA-4212-AD22-1E5822392235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300E1286-E2EA-4212-AD22-1E5822392235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300E1286-E2EA-4212-AD22-1E5822392235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300E1286-E2EA-4212-AD22-1E5822392235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDAF3A5-7ACB-4169-B3E6-1A70782ABB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDAF3A5-7ACB-4169-B3E6-1A70782ABB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDAF3A5-7ACB-4169-B3E6-1A70782ABB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDAF3A5-7ACB-4169-B3E6-1A70782ABB97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
